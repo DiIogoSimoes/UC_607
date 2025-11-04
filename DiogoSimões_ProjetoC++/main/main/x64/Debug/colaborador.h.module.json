@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\colaborador.h.obj",
+            "outputs": [
+                "C:\\Users\\vlems\\OneDrive\\Ambiente de Trabalho\\atec\\0607\\Diogo_C++\\main\\main\\x64\\Debug\\vc145.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\vlems\\OneDrive\\Ambiente de Trabalho\\atec\\0607\\Diogo_C++\\main\\main\\x64\\Debug\\colaborador.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "colaborador.h",
+                    "source-path": "c:\\users\\vlems\\onedrive\\ambiente de trabalho\\atec\\0607\\diogo_c++\\main\\main\\colaborador.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\colaborador.obj",
+            "outputs": [
+                "x64\\Debug\\colaborador.h_410C53B46FB85FD6.ifc.dt.module.json",
+                "x64\\Debug\\colaborador.h_410C53B46FB85FD6.ifc.dt.d.json",
+                "x64\\Debug\\colaborador.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Diogo_C++\\main\\main\\colaborador.h",
+                    "source-path": "c:\\diogo_c++\\main\\main\\colaborador.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
