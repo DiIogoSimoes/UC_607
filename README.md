@@ -24,16 +24,6 @@ Compilar o projeto (Ctrl + Shift + B).
 
 Executar a aplicação (Ctrl + F5).
 
-📂 Estrutura do projeto
-
-/src – Código-fonte principal em C++.
-
-/include – Cabeçalhos e definições.
-
-/bin – Ficheiros compilados (output).
-
-README.md – Documento de apresentação do projeto.
-
 👩‍💻 Autoria
 
 Diogo Simões Projeto desenvolvido para avaliação da UC 607.
